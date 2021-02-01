@@ -9,10 +9,10 @@ class TwitterClient(object):
 
     def __init__(self):
 
-        consumer_key = 'tSxfvGQb9vk1ORfJSlX9z5M6B'
-        consumer_secret = 'a61yS5eLNxbczDTDG0wfzljpjINrvmX2JFH2muZP2xjN0cjFHX'
-        access_token = '2730518200-Ng3Ka0n84MPk91nihiO2KIrDcYIM7uHndILvNy2'
-        access_token_secret = 'hDNfcVpV8Yx26nFM4GyMOjb2HJuoajC0hXDEp7xJONlcz'
+        consumer_key = ''
+        consumer_secret = ''
+        access_token = ''
+        access_token_secret = ''
 
         try:
 
